@@ -15,6 +15,7 @@ A count of how many times a number in the list has a lower number to its right.
 Sample Input 0
 
 6 28 7 6 21 88 89
+
 Sample Output 0
 
 2
