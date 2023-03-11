@@ -26,9 +26,6 @@ Sample Input 0
 Sample Output 0
 
 9
-Submissions: 11
-Max Score: 200
-Rate This Challenge:
 
-    
-More
+
+https://www.hackerrank.com/contests/ucsi-national-programming-competition/challenges/unpc-eliminate-unlucky-numbers
