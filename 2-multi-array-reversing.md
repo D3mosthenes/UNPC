@@ -9,7 +9,7 @@ In this problem you will build a new array using the numbers from an existing ar
 
 Here is another example starting with the original array [4, 8, 6, 1, 7, 9] and ending with a result of [9, 1, 8, 4, 6, 7].
 
-      |  Add next element to end |  Reversed the array  |
+|     |  Add next element to end |  Reversed the array  |
 | --- |  ----------------------- | -------------------- |
 | 1   |  [4]                     |     [4]              |  
 | 2   |  [4,8]                   |     [8,4]            |
