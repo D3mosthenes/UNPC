@@ -17,6 +17,7 @@ The characters in the largest substring. Display the output on the monitor. See 
 Sample Input 0
 
 adfjabcghl
+
 Sample Output 0
 
 abcghl
