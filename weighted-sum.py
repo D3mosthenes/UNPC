@@ -1,7 +1,7 @@
 import math
-
+import sys
 #Digit Generation from the positive integer
-n=57
+n=int(input())
 digits=[int(x) for x in str(n)]
 #print(digits)
 
