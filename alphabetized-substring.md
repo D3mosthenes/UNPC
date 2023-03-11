@@ -20,3 +20,6 @@ adfjabcghl
 Sample Output 0
 
 abcghl
+
+
+https://www.hackerrank.com/contests/ucsi-national-programming-competition/challenges/unpc-alphabetized-substring
